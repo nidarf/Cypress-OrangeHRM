@@ -1,0 +1,26 @@
+{
+    "invalid": [
+        {
+            "username": "Admins",
+            "password": "admin123"
+        }, 
+        {
+            "username": "Admin",
+            "password": "admin1234"
+        }
+    ],
+
+    "valid": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+
+    "emergency_invalid": [
+        {
+            "home_tlp": "fbsjfwj386"
+        },
+        {
+            "home_tlp": "+6287387&632%"
+        }
+    ]
+}
